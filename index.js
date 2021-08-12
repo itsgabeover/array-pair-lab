@@ -26,9 +26,9 @@ const coursePhases = [
 
 
 
-
 // You don't have to change anything below this line
 // These console logs are for you to check your work in the browser console.
+
 
 console.log(sortCohortDesc())
 console.log(shortNames())

@@ -6,7 +6,7 @@ This exercise is going to get us plenty of reps in with both writing functions, 
 
 * In this lab you'll notice two files, and i`ndex.html` file and an `index.js `file. The i`ndex.html` file is importing the `index.js` file and running its code. 
 
-* You can open the `index.html` file in your browser by navigating to his repo in terminal and typing `open .` if you're on a mac (if you're on windows, navigate to this folder in your file explorer, right click on the `index.html` file, select "open with" and choose your browser.) Once you open this file in the browser, open you JS console. You should see a bunch of console log errors that are undefined.
+* You can open the `index.html` file in your browser by navigating to his repo in terminal and typing `open index.html` if you're on a mac (if you're on windows, navigate to this folder in your file explorer, right click on the `index.html` file, select "open with" and choose your browser.) Once you open this file in the browser, open you JS console. You should see a bunch of console log errors that are undefined.
 
 * The console logs are logging the functions we are expecting you to write. When they are written properly in the `index.js` file, the desired result should be console logged in the browser
 
